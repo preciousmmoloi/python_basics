@@ -23,7 +23,7 @@ ageandcar = person[2:4]
 
 print(ageandcar)
 
-# SUBSETTING - Creati gout list from a present list
+# SUBSETTING - Creatig a new list another list
 # slice - getting a piece of the list by specfifying the start to the end index with the end index excluded
 
 numbers = [10, 20, 30, 40, 50, 60]

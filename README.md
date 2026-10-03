@@ -3,6 +3,8 @@ Learning python via the Associate Data Scientist in Python course on DataCamp fo
 
 https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
+# practising git and github too
+
 # 24 Modules in total
 
 WEEK 1 and 2 

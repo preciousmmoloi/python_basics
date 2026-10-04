@@ -9,8 +9,8 @@ WEEK 1 and 2
 
 1. Introduction to Python
     - Pythin Basics ✅
-    - Python Lists
-    - Functions and Packages
+    - Python Lists ✅
+    - Functions and Packages 
     - NumPy
 
 2. Intermediate Python 

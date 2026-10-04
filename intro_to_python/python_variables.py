@@ -15,5 +15,3 @@ print(type('Hello')) #str - text - use double nd single quotes
 print(type("23" + "1")) #str 
 print(type(23)) #integer - int
 print(type(True)) #boolean - bool- Capitalized
-
-

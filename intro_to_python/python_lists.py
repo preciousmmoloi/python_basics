@@ -50,3 +50,11 @@ print(numbers)
 
 y = list(numbers)
 z = numbers[:] # copy from start to finish
+
+ages = [17, 25, 27, 54, 5]
+
+ages.insert(0, 3)
+
+ages.pop()
+
+print(ages)

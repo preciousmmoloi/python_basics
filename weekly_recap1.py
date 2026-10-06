@@ -27,3 +27,27 @@ del media[2]
 media_team = media + ['Mr S Mzima']
 
 print(media_team)
+
+
+# BUILT-IN FUNCTIONS AND METHODS FOR PYTHON OBJECTS
+
+
+
+cars = ['Mazda', 'Mercedes', 'BMW', 'Chery', 'Suzuki']
+
+name = 'Wife'
+
+name2 = name.replace('Wife', 'Husband')
+
+print(cars.count('Mazda'))
+print(cars.index('Mazda'))
+
+print(name2)
+
+cars.append('VW')
+
+more_cars = list(cars)
+
+more_cars.append('Renault')
+
+print(more_cars)
